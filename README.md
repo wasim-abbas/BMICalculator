@@ -2,7 +2,7 @@
 Android app for calculating BMI vaules.
 
 #ScreenShots
-<img src="Screenshots/1.PNG" width="100" >
+<img src="Screenshots/1.PNG" width="640" heaight="320" >
 <img src="Screenshots/2.PNG">
 <img src="Screenshots/3.jpg">
 <img src="Screenshots/4.jpg">
