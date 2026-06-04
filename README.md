@@ -1,5 +1,5 @@
-## BMIcalculator in android 
-Android app for calculating BMI vaules.
+## BMI calculator in Android 
+Android app for calculating BMI values.
 
 #ScreenShots
 
